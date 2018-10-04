@@ -1,0 +1,98 @@
+.container {
+    
+}
+.row {
+    margin:0 auto;
+    height: 450px;
+}
+.row2 {
+    height:30px;
+}
+
+.grid {
+    display: flex;
+    flex:flex-wrap;
+    vh:50;
+}
+
+#colorSelector {
+    justify-content:center;
+    margin: 0 auto;
+    height: 300px;
+    width: 450px;
+}
+
+p {
+    font-size:30px;
+    margin: 0 auto;
+}
+
+div {
+    border:1px solid;
+}
+
+.pixel {
+    width: 10px;
+    border: 1px solid;
+}
+
+.palette1 {
+    background-color:red;
+    height:90px;
+    font-size: 80px;
+}
+.palette2 {
+    background-color:green;
+    height:90px;
+    font-size: 80px;
+}
+.palette3 {
+    background-color:black;
+    height:90px;
+    font-size: 80px;
+}
+.palette4 {
+    background-color:yellow;
+    height:90px;
+    font-size: 80px;
+}
+.palette5 {
+    background-color:brown;
+    height:90px;
+    font-size: 80px;
+}
+.palette6 {
+    background-color:blue;
+    height:90px;
+    font-size: 80px;
+}
+.palette7 {
+    background-color:orange;
+    height:90px;
+    font-size: 80px;
+}
+.palette8 {
+    background-color:white;
+    height:90px;
+    font-size: 80px;
+}
+.palette9 {
+    background-color:gray;
+    height:90px;
+    font-size: 80px;
+}
+.palette10 {
+    background-color:purple;
+    height:90px;
+    font-size: 80px;
+}
+.palette11 {
+    background-color:pink;
+    height:90px;
+    font-size: 80px;
+}
+.palette12 {
+    background-color:salmon;
+    height:90px;
+    font-size: 80px;
+}
